@@ -2,6 +2,9 @@
 
 A parametric OpenSCAD library for creating GOEWS (Grid Organized Easy Wall System) compatible cleats and back plates.
 
+<img width="817" height="581" alt="image" src="https://github.com/user-attachments/assets/694f14f8-8941-4bca-a2d3-0b3993663dc4" />
+
+
 ## Origin
 
 This library is shamelessly ripped from the [GOEWS Vertical Item Holder](https://makerworld.com/en/makerlab/parametricModelMaker?designId=993886&from=model_page&modelName=GOEWSVerticalItemHolder.scad&scadUrl=https%3A%2F%2Fmakerworld.bblmw.com%2Fmakerworld%2Fmodel%2FUSd50300edeee6ae%2Fmsfile%2F2025-01-17_03d0d385edbd9.scad%3Fat%3D1767663147%26exp%3D1767663447%26key%3D7c0031f1cee4cd55c4be26bb3a4bb50f%26uid%3D972012816&unikey=aab4ec2c-a888-457a-b7c9-1de63cbd9538) on MakerWorld.
